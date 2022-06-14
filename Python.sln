@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab3", "Lab3.py\Lab3.pyproj", "{3583E995-7BF8-4306-8852-58F7B6CAA3C7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab4", "Lab4.py\Lab4.pyproj", "{3A6228B1-13D6-4FC0-9FC5-EA4BBE36DFA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab5", "Lab5", "{27AF6ED9-E693-4AE8-8417-EB4ADCAB129B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "final_task", "final_task.py\final_task.pyproj", "{09863E7F-5D76-4EDB-8A9E-55FE37FA5ED0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mainLab5", "Lab5.py\mainLab5.pyproj", "{0C75748A-091F-454C-BC76-54009E2F6984}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab2", "Lab2\Lab2.pyproj", "{8AD131B4-47FC-48FB-BFC1-313F3230B2C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3583E995-7BF8-4306-8852-58F7B6CAA3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3583E995-7BF8-4306-8852-58F7B6CAA3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6228B1-13D6-4FC0-9FC5-EA4BBE36DFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6228B1-13D6-4FC0-9FC5-EA4BBE36DFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09863E7F-5D76-4EDB-8A9E-55FE37FA5ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09863E7F-5D76-4EDB-8A9E-55FE37FA5ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C75748A-091F-454C-BC76-54009E2F6984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C75748A-091F-454C-BC76-54009E2F6984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD131B4-47FC-48FB-BFC1-313F3230B2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD131B4-47FC-48FB-BFC1-313F3230B2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0C75748A-091F-454C-BC76-54009E2F6984} = {27AF6ED9-E693-4AE8-8417-EB4ADCAB129B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC909413-B0BB-405D-AC8E-E991F267DDDC}
+	EndGlobalSection
+EndGlobal
